@@ -21,4 +21,7 @@ int main()
 
 	// Printing what is written in file
 	// character by character using loop.
+	do {
+
+	} while (ch != EOF);
 }
