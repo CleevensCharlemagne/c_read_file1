@@ -6,6 +6,6 @@
 
 int main()
 {
-    printf("Hello world!\n");
-    return 0;
+    FILE* ptr;
+	char ch;
 }
