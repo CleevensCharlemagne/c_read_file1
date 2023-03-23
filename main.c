@@ -16,4 +16,9 @@ int main()
 	if (NULL == ptr) {
 		printf("file can't be opened \n");
 	}
+
+	printf("content of this file are \n");
+
+	// Printing what is written in file
+	// character by character using loop.
 }
