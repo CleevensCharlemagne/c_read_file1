@@ -9,4 +9,7 @@ int main()
 {
     FILE* ptr;
 	char ch;
+
+	// Opening file in reading mode
+	ptr = fopen("test.txt", "r");
 }
