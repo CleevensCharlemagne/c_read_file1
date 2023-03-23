@@ -25,6 +25,7 @@ int main()
 		ch = fgetc(ptr);
 		printf("%c", ch);
 
-
+		// Checking if character is not EOF.
+		// If it is EOF stop reading.
 	} while (ch != EOF);
 }
