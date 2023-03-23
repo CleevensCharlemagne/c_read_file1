@@ -22,6 +22,9 @@ int main()
 	// Printing what is written in file
 	// character by character using loop.
 	do {
+		ch = fgetc(ptr);
+		printf("%c", ch);
+
 
 	} while (ch != EOF);
 }
